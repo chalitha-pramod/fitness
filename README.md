@@ -1,2 +1,0 @@
-# fitness
- php + mysql + bootstrap
